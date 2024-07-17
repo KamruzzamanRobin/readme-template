@@ -85,7 +85,7 @@ http://www.studywithanis.com
 
 <!-- ![profile](./Image/WIN_20240523_07_35_58_Pro.jpg) -->
 
-<img src="./Image/me.jpg" width="700" title="profile image">
+<img src="./me.jpg" width="700" title="profile image">
 
 <br/>
 
